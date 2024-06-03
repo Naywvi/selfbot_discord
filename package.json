@@ -1,0 +1,22 @@
+{
+  "name": "naywvibot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cli-color": "^2.0.4",
+    "discord-rpc": "^4.0.1",
+    "discord.js": "^14.15.3",
+    "discord.js-selfbot-v13": "^3.1.4",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+}
