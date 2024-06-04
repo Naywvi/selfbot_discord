@@ -10,7 +10,7 @@ client.commands = new Map();
 // Charger toutes les routes
 initializeRoutes(client);
 
-client.on('ready', () => {
+client.on('ready', async () => {
     console.log(`${clc.bgRedBright.white.bold(`💥  ${client.user.username} IS READY 💥 `)}`);
 });
 
@@ -24,4 +24,4 @@ client.on('messageCreate', message => {
     }
 });
 
-client.login(process.env.DISCORD_TOKEN); 
+client.login(process.env.DISCORD_TOKEN);

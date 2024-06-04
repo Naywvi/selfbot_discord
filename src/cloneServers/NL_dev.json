@@ -1,0 +1,283 @@
+{
+  "name": "NL dev",
+  "id": "1214925299293225000",
+  "channels": [
+    {
+      "id": "1214928355208462399",
+      "name": "assistance-technique",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "1214927995853082685",
+      "name": "projets-backend",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "1214927431731773450",
+      "name": "🌐 - Off-Topic",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 4
+    },
+    {
+      "id": "1214928564835590145",
+      "name": "jeux-video",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "1214927571201040544",
+      "name": "bienvenue",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "1214927820569186354",
+      "name": "discussions-generales",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 5
+    },
+    {
+      "id": "1214927773454303312",
+      "name": "partage-de-code",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 4
+    },
+    {
+      "id": "1214928224400838726",
+      "name": "aide-generale",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "1214928996832120883",
+      "name": "webhook-admin-flow",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "1214928767361753088",
+      "name": "👑 - admin",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "1214928031580160080",
+      "name": "projets-frontend",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "1214927899854114847",
+      "name": "projets-web",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "1214928287755665428",
+      "name": "bugs-et-problemes",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "1214934566855508008",
+      "name": "gestion",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "1214928127860539402",
+      "name": "projets-ux-ui",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 5
+    },
+    {
+      "id": "1214927516251324468",
+      "name": "annonces",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "1214928811947196416",
+      "name": "discussions",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "1214928539002867733",
+      "name": "passions-personnelles",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "1214927287930327090",
+      "name": "🧑🏼- Général - 💼",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "1214928624398897172",
+      "name": "blabla",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 4
+    },
+    {
+      "id": "1214928407415226428",
+      "name": "rapports-utilisateurs",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 4
+    },
+    {
+      "id": "1214927711689252904",
+      "name": "aide-technique",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "1214928840443297852",
+      "name": "idées-de-projets",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "1214927936109674578",
+      "name": "projets-mobile",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "1214927848792662086",
+      "name": "divertissement",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 6
+    },
+    {
+      "id": "1214927645549002812",
+      "name": "projets-en-cours",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "1214928599568875590",
+      "name": "musique-et-cinema",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "1214928310090465330",
+      "name": "tutoriels",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "1214928080536084530",
+      "name": "projets-open-source",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 4
+    },
+    {
+      "id": "1214927353583632384",
+      "name": "🖥 - Projets",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "1214928174220058624",
+      "name": "projets-devops",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 6
+    },
+    {
+      "id": "1214928483650895952",
+      "name": "discussions-diverses",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "1214927390581588049",
+      "name": "🆘 - Support",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 3
+    }
+  ],
+  "roles": [
+    {
+      "id": "1214925299293225000",
+      "name": "@everyone",
+      "color": 0,
+      "hoist": false,
+      "position": 0,
+      "permissions": "2222085186637377"
+    },
+    {
+      "id": "1215239665007726632",
+      "name": "administrateur",
+      "color": 15844367,
+      "hoist": true,
+      "position": 1,
+      "permissions": "420013441810431"
+    }
+  ],
+  "members": [
+    {
+      "id": "655023105923874842",
+      "username": "naywvi",
+      "discriminator": "0",
+      "roles": [
+        "1215239665007726632",
+        "1214925299293225000"
+      ]
+    },
+    {
+      "id": "779019442579308574",
+      "username": "laiteau_",
+      "discriminator": "0",
+      "roles": [
+        "1215239665007726632",
+        "1214925299293225000"
+      ]
+    },
+    {
+      "id": "687960665528467488",
+      "username": "imrda.188",
+      "discriminator": "0",
+      "roles": [
+        "1214925299293225000"
+      ]
+    }
+  ]
+}

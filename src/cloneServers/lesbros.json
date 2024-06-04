@@ -1,0 +1,805 @@
+{
+  "name": "[🇫🇷] Les Bros ! [🇫🇷]",
+  "id": "215853403434254336",
+  "channels": [
+    {
+      "id": "371350180051550208",
+      "name": "📝 Global 📝",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "371350241472937995",
+      "name": "commande-bot",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "371350318018985984",
+      "name": "general",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "371354926959558656",
+      "name": "🔇 Les Useless 🔇",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 4
+    },
+    {
+      "id": "371354956588122122",
+      "name": "💤 AFK",
+      "type": "GUILD_VOICE",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "371762987809243136",
+      "name": "message-épinglé",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "372678123990548482",
+      "name": "🔒 Admin 🔒",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "379285777978359808",
+      "name": "logs",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "392074969317769217",
+      "name": "questions-reponses",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "394221126185779201",
+      "name": "stream-et-youtube",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 4
+    },
+    {
+      "id": "410047646644961280",
+      "name": "regles",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "420923040948551690",
+      "name": "lait-bros",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "457115170657927179",
+      "name": "📋 Regles/infos 📋",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "457121067392303104",
+      "name": "🎮 Publique 🎮",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "457121174623617036",
+      "name": "💷 Salon 1",
+      "type": "GUILD_VOICE",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "457121188909416450",
+      "name": "💶 Salon 2",
+      "type": "GUILD_VOICE",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "457121200678764544",
+      "name": "💴 Salon 3",
+      "type": "GUILD_VOICE",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "457121212028551190",
+      "name": "💵 Salon 4",
+      "type": "GUILD_VOICE",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "468920094391664642",
+      "name": "attribuez-vos-roles",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "474891093549252629",
+      "name": "accueil",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "550028135660519424",
+      "name": "🔑 Salon des Dieux",
+      "type": "GUILD_VOICE",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "653649545074311178",
+      "name": "🔑 Bros 2 / FELLAS IS IT GAY TO BREATHE?",
+      "type": "GUILD_VOICE",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "880778063527444490",
+      "name": "💷 Salon 5",
+      "type": "GUILD_VOICE",
+      "parentID": null,
+      "position": 4
+    },
+    {
+      "id": "946145163602956379",
+      "name": "🔑 Bros 3 / La Rue",
+      "type": "GUILD_VOICE",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "959792071735132231",
+      "name": "patch-note",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "987511300793987112",
+      "name": "discussions",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    }
+  ],
+  "roles": [
+    {
+      "id": "888918813444304958",
+      "name": "Jockie Music",
+      "color": 0,
+      "hoist": false,
+      "position": 6,
+      "permissions": "8"
+    },
+    {
+      "id": "459774435495510058",
+      "name": "MyMen",
+      "color": 14984099,
+      "hoist": true,
+      "position": 42,
+      "permissions": "6546523713"
+    },
+    {
+      "id": "380795645574905856",
+      "name": "La Mif' +",
+      "color": 9366469,
+      "hoist": true,
+      "position": 41,
+      "permissions": "8803713486407"
+    },
+    {
+      "id": "1155225971658604544",
+      "name": "Salope 2.0",
+      "color": 15277667,
+      "hoist": false,
+      "position": 1,
+      "permissions": "0"
+    },
+    {
+      "id": "439439486640848907",
+      "name": "Darwin Project",
+      "color": 2075243,
+      "hoist": false,
+      "position": 35,
+      "permissions": "6546523713"
+    },
+    {
+      "id": "379274688645300224",
+      "name": "Mee6",
+      "color": 0,
+      "hoist": false,
+      "position": 18,
+      "permissions": "6509035135"
+    },
+    {
+      "id": "564396409370181662",
+      "name": "Muted",
+      "color": 8487814,
+      "hoist": false,
+      "position": 11,
+      "permissions": "6546589249"
+    },
+    {
+      "id": "853992786335367168",
+      "name": "Server Booster",
+      "color": 16023551,
+      "hoist": false,
+      "position": 7,
+      "permissions": "109625804353"
+    },
+    {
+      "id": "372356980150370305",
+      "name": "League Of Legends",
+      "color": 3066993,
+      "hoist": false,
+      "position": 25,
+      "permissions": "6479535681"
+    },
+    {
+      "id": "551854048936984623",
+      "name": "Club Sexe 📻🍆🔞",
+      "color": 12727712,
+      "hoist": true,
+      "position": 44,
+      "permissions": "6546589249"
+    },
+    {
+      "id": "1065330555903803482",
+      "name": "ChatGPT",
+      "color": 0,
+      "hoist": false,
+      "position": 3,
+      "permissions": "277025736768"
+    },
+    {
+      "id": "409779561073606666",
+      "name": "JukeBot",
+      "color": 0,
+      "hoist": false,
+      "position": 15,
+      "permissions": "6492089921"
+    },
+    {
+      "id": "432190399017385985",
+      "name": "PUBG",
+      "color": 15105570,
+      "hoist": false,
+      "position": 33,
+      "permissions": "6546523713"
+    },
+    {
+      "id": "616724810327654400",
+      "name": "DJ",
+      "color": 0,
+      "hoist": false,
+      "position": 9,
+      "permissions": "6546589249"
+    },
+    {
+      "id": "397872677198495744",
+      "name": "Rainbow6",
+      "color": 13603361,
+      "hoist": false,
+      "position": 36,
+      "permissions": "6546523713"
+    },
+    {
+      "id": "379280714115448832",
+      "name": "xBox",
+      "color": 3066993,
+      "hoist": false,
+      "position": 22,
+      "permissions": "6546523713"
+    },
+    {
+      "id": "421632313386860546",
+      "name": "GiveawayBot",
+      "color": 0,
+      "hoist": false,
+      "position": 13,
+      "permissions": "6442798656"
+    },
+    {
+      "id": "379280335533244417",
+      "name": "Ps4",
+      "color": 3361788,
+      "hoist": false,
+      "position": 23,
+      "permissions": "6546523713"
+    },
+    {
+      "id": "581173667220684810",
+      "name": "Muted",
+      "color": 8487814,
+      "hoist": false,
+      "position": 10,
+      "permissions": "6442450944"
+    },
+    {
+      "id": "321252472335237120",
+      "name": "Fortnite",
+      "color": 2067276,
+      "hoist": false,
+      "position": 28,
+      "permissions": "6546640449"
+    },
+    {
+      "id": "401445364391084032",
+      "name": "dabBot",
+      "color": 0,
+      "hoist": false,
+      "position": 16,
+      "permissions": "6445977152"
+    },
+    {
+      "id": "379333690486161408",
+      "name": "La Mif'",
+      "color": 13880596,
+      "hoist": true,
+      "position": 40,
+      "permissions": "8803713355329"
+    },
+    {
+      "id": "425053758028906498",
+      "name": "For Honor",
+      "color": 13208888,
+      "hoist": false,
+      "position": 34,
+      "permissions": "6546523713"
+    },
+    {
+      "id": "379260993009614849",
+      "name": "Dyno",
+      "color": 0,
+      "hoist": false,
+      "position": 49,
+      "permissions": "8804669681407"
+    },
+    {
+      "id": "258325602711371777",
+      "name": "Joueur",
+      "color": 3066993,
+      "hoist": true,
+      "position": 20,
+      "permissions": "6546644545"
+    },
+    {
+      "id": "449524435188187146",
+      "name": "YAGPDB.xyz",
+      "color": 0,
+      "hoist": false,
+      "position": 12,
+      "permissions": "6965816855"
+    },
+    {
+      "id": "456112977905582091",
+      "name": "RealmRoyale",
+      "color": 3447003,
+      "hoist": false,
+      "position": 29,
+      "permissions": "6546523713"
+    },
+    {
+      "id": "582615728902111252",
+      "name": "Sous-Race",
+      "color": 5908224,
+      "hoist": true,
+      "position": 46,
+      "permissions": "6479480384"
+    },
+    {
+      "id": "258330141363666944",
+      "name": "Potos",
+      "color": 16752915,
+      "hoist": true,
+      "position": 37,
+      "permissions": "8803730185793"
+    },
+    {
+      "id": "258327747049291786",
+      "name": "DIIIEUUUUX",
+      "color": 11342935,
+      "hoist": true,
+      "position": 48,
+      "permissions": "8804682432383"
+    },
+    {
+      "id": "258325206307700736",
+      "name": "Modo",
+      "color": 14152452,
+      "hoist": true,
+      "position": 45,
+      "permissions": "8804145561303"
+    },
+    {
+      "id": "449519516913762304",
+      "name": "Rust",
+      "color": 15105570,
+      "hoist": false,
+      "position": 31,
+      "permissions": "6546523713"
+    },
+    {
+      "id": "1068217341537689751",
+      "name": "Craig",
+      "color": 0,
+      "hoist": false,
+      "position": 2,
+      "permissions": "68176896"
+    },
+    {
+      "id": "471983800960679947",
+      "name": "Dead By Daylight",
+      "color": 3218203,
+      "hoist": false,
+      "position": 30,
+      "permissions": "6546523713"
+    },
+    {
+      "id": "1035122993678000180",
+      "name": "Midjourney Bot",
+      "color": 0,
+      "hoist": false,
+      "position": 4,
+      "permissions": "2147601472"
+    },
+    {
+      "id": "379280842641375243",
+      "name": "PC",
+      "color": 15105570,
+      "hoist": false,
+      "position": 24,
+      "permissions": "6546523713"
+    },
+    {
+      "id": "308371259744583691",
+      "name": "CS:GO",
+      "color": 15844367,
+      "hoist": false,
+      "position": 27,
+      "permissions": "6546644545"
+    },
+    {
+      "id": "215853403434254336",
+      "name": "@everyone",
+      "color": 0,
+      "hoist": false,
+      "position": 0,
+      "permissions": "2222085186586177"
+    },
+    {
+      "id": "396688299470618624",
+      "name": "Fortnite Stats",
+      "color": 0,
+      "hoist": false,
+      "position": 17,
+      "permissions": "6576931392"
+    },
+    {
+      "id": "449984680515600404",
+      "name": "Joueurs Confirmés",
+      "color": 16088677,
+      "hoist": true,
+      "position": 38,
+      "permissions": "6546523713"
+    },
+    {
+      "id": "258325004146442240",
+      "name": "Demi-Dieux",
+      "color": 15277667,
+      "hoist": true,
+      "position": 47,
+      "permissions": "8804653063897"
+    },
+    {
+      "id": "263072730893647872",
+      "name": "ErisBot",
+      "color": 3447003,
+      "hoist": false,
+      "position": 19,
+      "permissions": "6442451464"
+    },
+    {
+      "id": "439746857468428288",
+      "name": "Membre Actif",
+      "color": 14516301,
+      "hoist": false,
+      "position": 21,
+      "permissions": "6546523713"
+    },
+    {
+      "id": "382616469977956352",
+      "name": "Deceit",
+      "color": 15158332,
+      "hoist": false,
+      "position": 32,
+      "permissions": "6546523713"
+    },
+    {
+      "id": "395953954879700993",
+      "name": "Streamer / YouTuber",
+      "color": 7749358,
+      "hoist": true,
+      "position": 43,
+      "permissions": "6546523713"
+    },
+    {
+      "id": "281509788142141441",
+      "name": "Overwatch",
+      "color": 15105570,
+      "hoist": false,
+      "position": 26,
+      "permissions": "6546644545"
+    },
+    {
+      "id": "264708944696442880",
+      "name": "Bot",
+      "color": 5533306,
+      "hoist": false,
+      "position": 50,
+      "permissions": "6546775625"
+    },
+    {
+      "id": "443419045258330112",
+      "name": "La P'tite Mif'",
+      "color": 15457153,
+      "hoist": true,
+      "position": 39,
+      "permissions": "6546523713"
+    },
+    {
+      "id": "664231348210499612",
+      "name": "new role",
+      "color": 0,
+      "hoist": false,
+      "position": 8,
+      "permissions": "6546589249"
+    },
+    {
+      "id": "959791906911580284",
+      "name": "PatchBot",
+      "color": 0,
+      "hoist": false,
+      "position": 5,
+      "permissions": "805366784"
+    },
+    {
+      "id": "418750243274883072",
+      "name": "Nadeko",
+      "color": 0,
+      "hoist": false,
+      "position": 14,
+      "permissions": "6508637759"
+    }
+  ],
+  "members": [
+    {
+      "id": "257990045040902145",
+      "username": "yuli9982",
+      "discriminator": "0",
+      "roles": [
+        "380795645574905856",
+        "379333690486161408",
+        "258325602711371777",
+        "258325004146442240",
+        "439746857468428288",
+        "443419045258330112",
+        "215853403434254336"
+      ]
+    },
+    {
+      "id": "235163330103214080",
+      "username": "leskargro",
+      "discriminator": "0",
+      "roles": [
+        "380795645574905856",
+        "372356980150370305",
+        "551854048936984623",
+        "379333690486161408",
+        "258325004146442240",
+        "439746857468428288",
+        "395953954879700993",
+        "443419045258330112",
+        "215853403434254336"
+      ]
+    },
+    {
+      "id": "655023105923874842",
+      "username": "naywvi",
+      "discriminator": "0",
+      "roles": [
+        "459774435495510058",
+        "380795645574905856",
+        "379333690486161408",
+        "258325602711371777",
+        "258330141363666944",
+        "449984680515600404",
+        "439746857468428288",
+        "443419045258330112",
+        "215853403434254336"
+      ]
+    },
+    {
+      "id": "936929561302675456",
+      "username": "Midjourney Bot",
+      "discriminator": "9282",
+      "roles": [
+        "582615728902111252",
+        "1035122993678000180",
+        "215853403434254336"
+      ]
+    },
+    {
+      "id": "566262662296764416",
+      "username": "younes8393",
+      "discriminator": "0",
+      "roles": [
+        "459774435495510058",
+        "380795645574905856",
+        "372356980150370305",
+        "551854048936984623",
+        "258325602711371777",
+        "379280842641375243",
+        "439746857468428288",
+        "395953954879700993",
+        "215853403434254336"
+      ]
+    },
+    {
+      "id": "159985870458322944",
+      "username": "MEE6",
+      "discriminator": "4876",
+      "roles": [
+        "379274688645300224",
+        "264708944696442880",
+        "215853403434254336"
+      ]
+    },
+    {
+      "id": "612788975022637056",
+      "username": "bluty_",
+      "discriminator": "0",
+      "roles": [
+        "459774435495510058",
+        "380795645574905856",
+        "439439486640848907",
+        "372356980150370305",
+        "397872677198495744",
+        "379280714115448832",
+        "379333690486161408",
+        "258325602711371777",
+        "258330141363666944",
+        "379280842641375243",
+        "443419045258330112",
+        "215853403434254336"
+      ]
+    },
+    {
+      "id": "292963016633221130",
+      "username": "sofiane_00",
+      "discriminator": "0",
+      "roles": [
+        "459774435495510058",
+        "380795645574905856",
+        "379333690486161408",
+        "258325602711371777",
+        "258330141363666944",
+        "258325206307700736",
+        "449984680515600404",
+        "439746857468428288",
+        "443419045258330112",
+        "215853403434254336"
+      ]
+    },
+    {
+      "id": "277415193255084032",
+      "username": "voltari0",
+      "discriminator": "0",
+      "roles": [
+        "459774435495510058",
+        "380795645574905856",
+        "551854048936984623",
+        "379333690486161408",
+        "395953954879700993",
+        "215853403434254336"
+      ]
+    },
+    {
+      "id": "246385208549572608",
+      "username": "incognito7387",
+      "discriminator": "0",
+      "roles": [
+        "380795645574905856",
+        "1155225971658604544",
+        "372356980150370305",
+        "551854048936984623",
+        "616724810327654400",
+        "379280335533244417",
+        "379333690486161408",
+        "258325602711371777",
+        "258325206307700736",
+        "449984680515600404",
+        "439746857468428288",
+        "443419045258330112",
+        "215853403434254336"
+      ]
+    },
+    {
+      "id": "320238896258613249",
+      "username": "im_nayzer",
+      "discriminator": "0",
+      "roles": [
+        "459774435495510058",
+        "380795645574905856",
+        "551854048936984623",
+        "379333690486161408",
+        "258325602711371777",
+        "258330141363666944",
+        "449984680515600404",
+        "443419045258330112",
+        "215853403434254336"
+      ]
+    },
+    {
+      "id": "1140078981945774190",
+      "username": "yakaeti.",
+      "discriminator": "0",
+      "roles": [
+        "258325602711371777",
+        "215853403434254336"
+      ]
+    },
+    {
+      "id": "260154144583712769",
+      "username": "hypnolito",
+      "discriminator": "0",
+      "roles": [
+        "380795645574905856",
+        "1155225971658604544",
+        "379333690486161408",
+        "258325206307700736",
+        "258325004146442240",
+        "439746857468428288",
+        "443419045258330112",
+        "215853403434254336"
+      ]
+    },
+    {
+      "id": "1172561461365723231",
+      "username": "yakaeti.ii",
+      "discriminator": "0",
+      "roles": [
+        "432190399017385985",
+        "379280714115448832",
+        "379280335533244417",
+        "321252472335237120",
+        "258325602711371777",
+        "379280842641375243",
+        "215853403434254336"
+      ]
+    }
+  ]
+}

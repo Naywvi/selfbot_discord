@@ -1,0 +1,3541 @@
+{
+  "name": "ESGI",
+  "id": "494073189404508160",
+  "channels": [
+    {
+      "id": "1154328693443923999",
+      "name": "📘・4iw4",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 10
+    },
+    {
+      "id": "891013049102762004",
+      "name": "📢・infos-3djv-5",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 9
+    },
+    {
+      "id": "1078636620317728858",
+      "name": "¶ ∴ ⸺ équipe Pédagogique 🧐",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 12
+    },
+    {
+      "id": "762966286132707338",
+      "name": "🔏・rôles",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "1155776937013284874",
+      "name": "📘・4iw1",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 15
+    },
+    {
+      "id": "904784814668906547",
+      "name": "¶ ∴ ⸺ infos 5ème année 📢",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 6
+    },
+    {
+      "id": "905041802757816340",
+      "name": "📢・infos-générales-esgi",
+      "type": "GUILD_NEWS",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "1159623928826826792",
+      "name": "📘・4si3",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 20
+    },
+    {
+      "id": "753900263282049064",
+      "name": "💬・général-3ème",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 7
+    },
+    {
+      "id": "1151592640530366485",
+      "name": "📘・1i3",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 4
+    },
+    {
+      "id": "755051939481518261",
+      "name": "🎓・3ème-année-iw",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 14
+    },
+    {
+      "id": "877496213866414111",
+      "name": "📧・comm-discord",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "888130561305112596",
+      "name": "🤼・gestion-associations",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "1019878708892401694",
+      "name": "🤝・réseau-et-sécurité",
+      "type": "GUILD_FORUM",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "770383889914265610",
+      "name": "🎓・4ème-année-moc",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 25
+    },
+    {
+      "id": "1155249088351178762",
+      "name": "📘・2a2",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 13
+    },
+    {
+      "id": "1219304196562485341",
+      "name": "📘・4src1",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 23
+    },
+    {
+      "id": "494599650188460057",
+      "name": "💬・général-assos",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "1063483935323070628",
+      "name": "🎓・1ère-année-alternance",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "1240224619005345863",
+      "name": "📢・infos-alumni",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 4
+    },
+    {
+      "id": "904805515153002496",
+      "name": "📰・sécurité-informatique",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "501334573779779586",
+      "name": "¶ ∴ ⸺ Délégué 🎓",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 17
+    },
+    {
+      "id": "1153739913452322897",
+      "name": "📘・3si3",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 9
+    },
+    {
+      "id": "907625337473622086",
+      "name": "📰・commun-the-next-web",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "1064542389525561465",
+      "name": "suivis-channel-discord",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 8
+    },
+    {
+      "id": "1155177899243077693",
+      "name": "📘・1i1",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 12
+    },
+    {
+      "id": "494181517921222666",
+      "name": "¶ ∴ ⸺ Général 💬",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 7
+    },
+    {
+      "id": "773991017212936192",
+      "name": "¶ ∴ ⸺ veille technologique 📰",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 20
+    },
+    {
+      "id": "770380242778456075",
+      "name": "💬・général-4ème",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 10
+    },
+    {
+      "id": "496059146794172416",
+      "name": "💻・bot-boss",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "904784892003500132",
+      "name": "¶ ∴ ⸺ Prof 3ème année 🧐",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 13
+    },
+    {
+      "id": "668946935725686804",
+      "name": "🗞・how-permissions-work",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "1063483663897079889",
+      "name": "🎓・2ème-année-initiale",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 4
+    },
+    {
+      "id": "494073189404508162",
+      "name": "🚀・getin-goout",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "755051685503828059",
+      "name": "🎓・3ème-année-si",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 8
+    },
+    {
+      "id": "1020824678442471475",
+      "name": "📗・wiki",
+      "type": "GUILD_FORUM",
+      "parentID": null,
+      "position": 5
+    },
+    {
+      "id": "770384447412502548",
+      "name": "🎓・5ème-année-mcsi",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 31
+    },
+    {
+      "id": "1151521177555177502",
+      "name": "📘・4iw2",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "494560552585265154",
+      "name": "¶ ∴ ⸺ Staff 💯",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "1158313740761047101",
+      "name": "📘・1i2",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 18
+    },
+    {
+      "id": "1159136364923719680",
+      "name": "📘・3iw2",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 19
+    },
+    {
+      "id": "1151168684681871370",
+      "name": "📘・3iabd1",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "770383931082014730",
+      "name": "🎓・4ème-année-src",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 26
+    },
+    {
+      "id": "770383584984039436",
+      "name": "🎓・4ème-année",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 17
+    },
+    {
+      "id": "1063483571483967639",
+      "name": "🎓・1ère-année-initiale",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "1082280275129667624",
+      "name": "💬・esgi-vs-ican",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 4
+    },
+    {
+      "id": "770376381015654430",
+      "name": "📢・infos-mcsi-4",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 9
+    },
+    {
+      "id": "1063486238725779547",
+      "name": "🎓・3ème-année-src",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 9
+    },
+    {
+      "id": "1097851883013537843",
+      "name": "📘・1a4",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "755051851392483388",
+      "name": "🎓・3ème-année-al",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 12
+    },
+    {
+      "id": "1019559389109178388",
+      "name": "💬・général-fyc",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "1159942262143340605",
+      "name": "📘・1a5",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 21
+    },
+    {
+      "id": "770378676768210985",
+      "name": "📢・infos-iw-5",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 8
+    },
+    {
+      "id": "831861983472648193",
+      "name": "🗞・server-insights",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "770380270339358800",
+      "name": "💬・général-5ème",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 11
+    },
+    {
+      "id": "1234803307193831466",
+      "name": "📘・5al1",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 24
+    },
+    {
+      "id": "976986998978003004",
+      "name": "📢・infos-générales-msc",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "1023905854342316113",
+      "name": "🤼・association",
+      "type": "GUILD_FORUM",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "753961460945780827",
+      "name": "📢・infos-iabd-3",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "753962357398700104",
+      "name": "📢・infos-mcsi-3",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 9
+    },
+    {
+      "id": "619180553501147152",
+      "name": "📢・infos-générales-1",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "770384472750424064",
+      "name": "🎓・5ème-année-moc",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 32
+    },
+    {
+      "id": "773994053082546206",
+      "name": "➕・ajout-de-flux-rss",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "1156295068995559464",
+      "name": "📘・2a4",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 17
+    },
+    {
+      "id": "753964490558537788",
+      "name": "📢・infos-3djv-3",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 8
+    },
+    {
+      "id": "1019880305789771786",
+      "name": "🤝・système",
+      "type": "GUILD_FORUM",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "499188304533782558",
+      "name": "📕・règles",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "904784735052628018",
+      "name": "¶ ∴ ⸺ Infos 4ème année 📢",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 5
+    },
+    {
+      "id": "770384274100191313",
+      "name": "🎓・5ème-année",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 27
+    },
+    {
+      "id": "770376674255699978",
+      "name": "📢・infos-ibc-4",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 4
+    },
+    {
+      "id": "770384298212720701",
+      "name": "🎓・5ème-année-si",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 28
+    },
+    {
+      "id": "1155545548296822794",
+      "name": "📘・3src1",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 14
+    },
+    {
+      "id": "770376277915598869",
+      "name": "📢・infos-src-4",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "964487104610578532",
+      "name": "📝・Discussion",
+      "type": "GUILD_VOICE",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "1053003655651012608",
+      "name": "📢・twitch-esgi",
+      "type": "GUILD_NEWS",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "770383825598414868",
+      "name": "🎓・4ème-année-iw",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 23
+    },
+    {
+      "id": "1063483667911016518",
+      "name": "🎓・2ème-année-alternance",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 5
+    },
+    {
+      "id": "976987467032956948",
+      "name": "💬・général-msc",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 12
+    },
+    {
+      "id": "494599404578406421",
+      "name": "¶ ∴ ⸺ Assos 🤼",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 10
+    },
+    {
+      "id": "711633799099711598",
+      "name": "💬・les-zélus-questions",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 16
+    },
+    {
+      "id": "770376709961678898",
+      "name": "📢・infos-iw-4",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 7
+    },
+    {
+      "id": "770376640499810314",
+      "name": "📢・infos-al-4",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 5
+    },
+    {
+      "id": "770376749065306133",
+      "name": "📢・infos-moc-4",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 6
+    },
+    {
+      "id": "770376174374748201",
+      "name": "📢・infos-iabd-4",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "770384378311737354",
+      "name": "🎓・5ème-année-al",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 35
+    },
+    {
+      "id": "1247530620314452100",
+      "name": "📘・3src2",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 25
+    },
+    {
+      "id": "1019879378345279539",
+      "name": "🤝・autres-sujets",
+      "type": "GUILD_FORUM",
+      "parentID": null,
+      "position": 4
+    },
+    {
+      "id": "1194918281014943837",
+      "name": "📘・5src2",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 22
+    },
+    {
+      "id": "897099279494160414",
+      "name": "💼・candidature",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "770384427778834492",
+      "name": "🎓・5ème-année-iw",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 29
+    },
+    {
+      "id": "774285422314520616",
+      "name": "📰・veille-techno",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 4
+    },
+    {
+      "id": "1007393879844212786",
+      "name": "🧰・auto-class",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "753897985620049961",
+      "name": "🎓・3ème-année",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 7
+    },
+    {
+      "id": "770383673077006406",
+      "name": "🎓・4ème-année-al",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 21
+    },
+    {
+      "id": "770376588536578159",
+      "name": "📢・infos-3djv-4",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 8
+    },
+    {
+      "id": "494209854601166868",
+      "name": "👋・présentation",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "755051879720812575",
+      "name": "🎓・3ème-année-ibc",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 13
+    },
+    {
+      "id": "1153253265702658100",
+      "name": "📘・4al1",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 8
+    },
+    {
+      "id": "1063483816091582581",
+      "name": "🎓・2ème-année-mcsi",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 6
+    },
+    {
+      "id": "1019923925335015424",
+      "name": "📝・infos-filières",
+      "type": "GUILD_FORUM",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "1152995981235867749",
+      "name": "📘・1a2",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 5
+    },
+    {
+      "id": "1010181825299239012",
+      "name": "🎨・design",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 7
+    },
+    {
+      "id": "976986959073382470",
+      "name": "📢・infos-générales-bsc",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "753964683148656662",
+      "name": "📢・infos-moc-3",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 6
+    },
+    {
+      "id": "753964404063600780",
+      "name": "📢・infos-src-3",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "904784706485235773",
+      "name": "¶ ∴ ⸺ infos 3ème année 📢",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 4
+    },
+    {
+      "id": "773988037343576064",
+      "name": "💬・général-esgi",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "770351538887065620",
+      "name": "📢・infos-générales-4",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "770384354890743828",
+      "name": "🎓・5ème-année-3djv",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 34
+    },
+    {
+      "id": "964245858965127318",
+      "name": "¶ ∴ ⸺ Infos Filières 📝",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 8
+    },
+    {
+      "id": "770378654995710014",
+      "name": "📢・infos-ibc-5",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 5
+    },
+    {
+      "id": "770384399656550411",
+      "name": "🎓・5ème-année-ibc",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 36
+    },
+    {
+      "id": "770384327870513182",
+      "name": "🎓・5ème-année-iabd",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 30
+    },
+    {
+      "id": "770383755080237086",
+      "name": "🎓・4ème-année-ibc",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 22
+    },
+    {
+      "id": "753964574730092574",
+      "name": "📢・infos-al-3",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 5
+    },
+    {
+      "id": "755051732198883409",
+      "name": "🎓・3ème-année-iabd",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 10
+    },
+    {
+      "id": "902506329581707285",
+      "name": "📢・infos-gestion-associations",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "755052002903589175",
+      "name": "🎓・3ème-année-mcsi",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 15
+    },
+    {
+      "id": "759809961499951104",
+      "name": "Membres・2274",
+      "type": "GUILD_VOICE",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "1019639999488077985",
+      "name": "🤝・développement",
+      "type": "GUILD_FORUM",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "1010180983535964300",
+      "name": "👮・juridique",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 6
+    },
+    {
+      "id": "1067083221071835156",
+      "name": "🛒・market-informatique",
+      "type": "GUILD_FORUM",
+      "parentID": null,
+      "position": 13
+    },
+    {
+      "id": "976987487920607292",
+      "name": "💬・général-bsc",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 9
+    },
+    {
+      "id": "852822664787263508",
+      "name": "💬・général-prof",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 4
+    },
+    {
+      "id": "884447468987764776",
+      "name": "¶ ∴ ⸺ Partenariat 👐",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 18
+    },
+    {
+      "id": "760478547776634890",
+      "name": "🚹・member-requests",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "824595786654154752",
+      "name": "🥳・discu-bde-admin",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "770381442466840628",
+      "name": "📢・infos-si-5",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "1153243127134552144",
+      "name": "📘・1a3",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 7
+    },
+    {
+      "id": "494506051421339658",
+      "name": "🎧・Centre de Documentation et d'Information",
+      "type": "GUILD_VOICE",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "904784968859930664",
+      "name": "¶ ∴ ⸺ Prof 5ème année 🧐",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 15
+    },
+    {
+      "id": "1152996086349303918",
+      "name": "📘・1a1",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 6
+    },
+    {
+      "id": "904784930448498708",
+      "name": "¶ ∴ ⸺ Prof 4ème année 🧐",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 14
+    },
+    {
+      "id": "494488652143919105",
+      "name": "💬・général-1ère",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 5
+    },
+    {
+      "id": "1019888456941441024",
+      "name": "💼・recherche-emploi",
+      "type": "GUILD_FORUM",
+      "parentID": null,
+      "position": 14
+    },
+    {
+      "id": "494560656411066388",
+      "name": "💯・secrétariat",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "770381293803405382",
+      "name": "📢・infos-si-4",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "770384491226726401",
+      "name": "🎓・5ème-année-src",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 33
+    },
+    {
+      "id": "770378553740492840",
+      "name": "📢・infos-mcsi-5",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 10
+    },
+    {
+      "id": "770383714353414164",
+      "name": "🎓・4ème-année-3djv",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 20
+    },
+    {
+      "id": "907625223208202311",
+      "name": "📰・commun-développez-com",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "770383648112246815",
+      "name": "🎓・4ème-année-iabd",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 19
+    },
+    {
+      "id": "774365887431704626",
+      "name": "💻・correctifs-bot",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "793784057170231326",
+      "name": "➕・ajout-de-rôles",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "753906744547082280",
+      "name": "📢・infos-générales-all",
+      "type": "GUILD_NEWS",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "770383866795130931",
+      "name": "🎓・4ème-année-mcsi",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 24
+    },
+    {
+      "id": "1153755154298978394",
+      "name": "🥳・échange-places-wei",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 4
+    },
+    {
+      "id": "494489813010087946",
+      "name": "¶ ∴ ⸺ Classes 📘",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 16
+    },
+    {
+      "id": "753964597664546946",
+      "name": "📢・infos-ibc-3",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 4
+    },
+    {
+      "id": "770378530349252618",
+      "name": "📢・infos-src-5",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "578274539285512192",
+      "name": "💬・général-2ème",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 6
+    },
+    {
+      "id": "753962179090448424",
+      "name": "📢・infos-si-3",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "895600018742984714",
+      "name": "trombinoscope",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 6
+    },
+    {
+      "id": "770351562676895755",
+      "name": "📢・infos-générales-5",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "1024234087755558972",
+      "name": "💬・général-3ème-src",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 8
+    },
+    {
+      "id": "609804376977965060",
+      "name": "💪・bon-plans",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 15
+    },
+    {
+      "id": "755052025238126633",
+      "name": "🎓・3ème-année-moc",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 16
+    },
+    {
+      "id": "770383617150418964",
+      "name": "🎓・4ème-année-si",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 18
+    },
+    {
+      "id": "770378633117958184",
+      "name": "📢・infos-al-5",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 6
+    },
+    {
+      "id": "534505466273726464",
+      "name": "📢・infos-générales-2",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "755051796501626950",
+      "name": "🎓・3ème-année-3djv",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 11
+    },
+    {
+      "id": "884447959427723314",
+      "name": "👐・soutien-esgi-asso",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "577957212769484821",
+      "name": "¶ ∴ ⸺ informations 📢",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "831867418082279475",
+      "name": "🎤・Réunion",
+      "type": "GUILD_VOICE",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "831867554116272128",
+      "name": "💻・général-dev",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "494560795846246410",
+      "name": "⛔・Bureau",
+      "type": "GUILD_VOICE",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "770378694149013576",
+      "name": "📢・infos-moc-5",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 7
+    },
+    {
+      "id": "1156160525806350447",
+      "name": "📘・1i4",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 16
+    },
+    {
+      "id": "494073189404508161",
+      "name": "¶ ∴ ⸺ Accueil 👋",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "1012817542177370212",
+      "name": "💻・github",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "770632197127798804",
+      "name": "¶ ∴ ⸺ staff infos 🗞",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 19
+    },
+    {
+      "id": "1232335964026961930",
+      "name": "🥳・discu-bde-erard",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "753961477722865774",
+      "name": "📢・infos-générales-3",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "494490514691719188",
+      "name": "¶ ∴ ⸺  Entraide 🤝",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 9
+    },
+    {
+      "id": "825811067154333796",
+      "name": "🥳・général-bde",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "822888707165782036",
+      "name": "📢・infos-si-janvier-5",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "753967603260850247",
+      "name": "🎓・1ère-année",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "770378505443475496",
+      "name": "📢・infos-iabd-5",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 4
+    },
+    {
+      "id": "824407346184061018",
+      "name": "💬・général-all",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "1154906858079920159",
+      "name": "📘・2i1",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 11
+    },
+    {
+      "id": "753964627905478656",
+      "name": "📢・infos-iw-3",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 7
+    },
+    {
+      "id": "979404112296804362",
+      "name": "🗞・community-updates",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "831866227437469708",
+      "name": "¶ ∴ ⸺ Dev 💻",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 2
+    },
+    {
+      "id": "1029007095615467551",
+      "name": "🥳・partenariat-bde",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 1
+    },
+    {
+      "id": "824593961694920714",
+      "name": "🥳・infos-bde",
+      "type": "GUILD_NEWS",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "821060957970235392",
+      "name": "💬・général-projets",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "494491149008896012",
+      "name": "💬・Bla bla",
+      "type": "GUILD_VOICE",
+      "parentID": null,
+      "position": 0
+    },
+    {
+      "id": "987040331054870589",
+      "name": "🔧・moderation",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 5
+    },
+    {
+      "id": "825810613997273098",
+      "name": "¶ ∴ ⸺ BDE 🥳",
+      "type": "GUILD_CATEGORY",
+      "parentID": null,
+      "position": 11
+    },
+    {
+      "id": "753967537603215491",
+      "name": "🎓・2ème-année",
+      "type": "GUILD_TEXT",
+      "parentID": null,
+      "position": 3
+    },
+    {
+      "id": "1246870875093991544",
+      "name": "Dev Angular - Test pour une alternance",
+      "type": "GUILD_PUBLIC_THREAD",
+      "parentID": null
+    },
+    {
+      "id": "1234892796876558477",
+      "name": "aide a la config d'infra",
+      "type": "GUILD_PUBLIC_THREAD",
+      "parentID": null
+    },
+    {
+      "id": "1238143114137305098",
+      "name": "\"Débloater\" un Windows",
+      "type": "GUILD_PUBLIC_THREAD",
+      "parentID": null
+    },
+    {
+      "id": "1247076832914964480",
+      "name": "Rentrée 2024",
+      "type": "GUILD_PUBLIC_THREAD",
+      "parentID": null
+    },
+    {
+      "id": "1024039410183970836",
+      "name": "Codes des sites physiques de l'ESGI",
+      "type": "GUILD_PUBLIC_THREAD",
+      "parentID": null
+    }
+  ],
+  "roles": [
+    {
+      "id": "1038493540566704220",
+      "name": "The Next Web News",
+      "color": 3447003,
+      "hoist": false,
+      "position": 7,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "976984771517358090",
+      "name": "MSc_SI",
+      "color": 11342935,
+      "hoist": true,
+      "position": 197,
+      "permissions": "691526819392"
+    },
+    {
+      "id": "831864844017467443",
+      "name": "ESGI Discord Developer",
+      "color": 1,
+      "hoist": false,
+      "position": 228,
+      "permissions": "6479534656"
+    },
+    {
+      "id": "793787257210404864",
+      "name": "Sécurité",
+      "color": 2399958,
+      "hoist": false,
+      "position": 20,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "623513203179257866",
+      "name": "5jv1",
+      "color": 11342935,
+      "hoist": true,
+      "position": 170,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "943628449917054986",
+      "name": "3src1Janvier",
+      "color": 16749600,
+      "hoist": true,
+      "position": 110,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "976984136214519889",
+      "name": "MSc_MCSI",
+      "color": 11342935,
+      "hoist": true,
+      "position": 194,
+      "permissions": "691526819392"
+    },
+    {
+      "id": "772747150140506122",
+      "name": "4mcsi3",
+      "color": 15158332,
+      "hoist": true,
+      "position": 131,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "623513179347222568",
+      "name": "4src1",
+      "color": 15158332,
+      "hoist": true,
+      "position": 151,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "495237220819795970",
+      "name": "1a2",
+      "color": 32278,
+      "hoist": true,
+      "position": 56,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "974353164671266817",
+      "name": "II_LILLE",
+      "color": 16773712,
+      "hoist": true,
+      "position": 70,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "1213899420815327302",
+      "name": "V_AIX",
+      "color": 11342935,
+      "hoist": true,
+      "position": 166,
+      "permissions": "0"
+    },
+    {
+      "id": "884207791517106176",
+      "name": "SI",
+      "color": 2192715,
+      "hoist": false,
+      "position": 207,
+      "permissions": "0"
+    },
+    {
+      "id": "976984991202414592",
+      "name": "MSc_SRC",
+      "color": 11342935,
+      "hoist": true,
+      "position": 196,
+      "permissions": "691526819392"
+    },
+    {
+      "id": "895967696989093898",
+      "name": "PPA",
+      "color": 15690253,
+      "hoist": true,
+      "position": 42,
+      "permissions": "0"
+    },
+    {
+      "id": "904737145321824346",
+      "name": "III",
+      "color": 16749600,
+      "hoist": false,
+      "position": 117,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "770650850074558522",
+      "name": "4iw1",
+      "color": 15158332,
+      "hoist": true,
+      "position": 139,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "763387453696114718",
+      "name": "Java",
+      "color": 15167232,
+      "hoist": false,
+      "position": 27,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "776771455920111626",
+      "name": "5iw2",
+      "color": 11342935,
+      "hoist": true,
+      "position": 173,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "1050030892774592623",
+      "name": "BDE",
+      "color": 7746,
+      "hoist": true,
+      "position": 214,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "890659624271896636",
+      "name": "1a3",
+      "color": 32278,
+      "hoist": true,
+      "position": 55,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "754295202591670272",
+      "name": "3src2",
+      "color": 16749600,
+      "hoist": true,
+      "position": 109,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "623513170522275881",
+      "name": "4iabd1",
+      "color": 15158332,
+      "hoist": true,
+      "position": 146,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "1213895978852286524",
+      "name": "II_REIMS",
+      "color": 16773712,
+      "hoist": true,
+      "position": 67,
+      "permissions": "0"
+    },
+    {
+      "id": "623513177329500160",
+      "name": "4jv1",
+      "color": 15158332,
+      "hoist": true,
+      "position": 134,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "890659667146051645",
+      "name": "5si4",
+      "color": 11342935,
+      "hoist": true,
+      "position": 189,
+      "permissions": "691526819392"
+    },
+    {
+      "id": "1213899404260544624",
+      "name": "IV_REIMS",
+      "color": 15158332,
+      "hoist": true,
+      "position": 124,
+      "permissions": "0"
+    },
+    {
+      "id": "1213899435160117298",
+      "name": "V_REIMS",
+      "color": 11342935,
+      "hoist": true,
+      "position": 160,
+      "permissions": "0"
+    },
+    {
+      "id": "504670191242969163",
+      "name": "Membre",
+      "color": 0,
+      "hoist": false,
+      "position": 212,
+      "permissions": "451008646720"
+    },
+    {
+      "id": "495236918531981323",
+      "name": "1a1",
+      "color": 32278,
+      "hoist": true,
+      "position": 57,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "494097701143707648",
+      "name": "1i2",
+      "color": 6684551,
+      "hoist": true,
+      "position": 60,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "758307036537815081",
+      "name": "3iw3",
+      "color": 16749600,
+      "hoist": true,
+      "position": 97,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "760159151371452416",
+      "name": "AutoDelete",
+      "color": 0,
+      "hoist": false,
+      "position": 12,
+      "permissions": "6442459136"
+    },
+    {
+      "id": "763387450248658954",
+      "name": "CSS",
+      "color": 2510308,
+      "hoist": false,
+      "position": 30,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "1213895975232471050",
+      "name": "II_GRENOBLE",
+      "color": 16773712,
+      "hoist": true,
+      "position": 71,
+      "permissions": "0"
+    },
+    {
+      "id": "577964707806183446",
+      "name": "Délégué 2ème",
+      "color": 7046399,
+      "hoist": true,
+      "position": 218,
+      "permissions": "4332052033"
+    },
+    {
+      "id": "922867545160183838",
+      "name": "3si1Janvier",
+      "color": 16749600,
+      "hoist": true,
+      "position": 112,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "904737140074758165",
+      "name": "III_LYON",
+      "color": 16749600,
+      "hoist": true,
+      "position": 89,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "770627170770354176",
+      "name": "Fondateur",
+      "color": 15844367,
+      "hoist": false,
+      "position": 231,
+      "permissions": "0"
+    },
+    {
+      "id": "902865458808647761",
+      "name": "IFTTT",
+      "color": 0,
+      "hoist": false,
+      "position": 13,
+      "permissions": "3088"
+    },
+    {
+      "id": "830045546907303946",
+      "name": "5mcsi1",
+      "color": 11342935,
+      "hoist": true,
+      "position": 169,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "649755737316392970",
+      "name": "BotGI",
+      "color": 1764607,
+      "hoist": false,
+      "position": 237,
+      "permissions": "8803876858953"
+    },
+    {
+      "id": "809724461967999026",
+      "name": "4iw1Janvier",
+      "color": 15158332,
+      "hoist": true,
+      "position": 136,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "1213899386594263122",
+      "name": "V_NANTES",
+      "color": 11342935,
+      "hoist": true,
+      "position": 161,
+      "permissions": "0"
+    },
+    {
+      "id": "1213895525372403822",
+      "name": "I_RENNES",
+      "color": 6684551,
+      "hoist": true,
+      "position": 45,
+      "permissions": "0"
+    },
+    {
+      "id": "771684173692928008",
+      "name": "⸺⸺ INFORMATIONS ⸺⸺",
+      "color": 2698031,
+      "hoist": false,
+      "position": 227,
+      "permissions": "6442450944"
+    },
+    {
+      "id": "1213899394407997580",
+      "name": "V_BORDEAUX",
+      "color": 11342935,
+      "hoist": true,
+      "position": 165,
+      "permissions": "0"
+    },
+    {
+      "id": "1017723479698714724",
+      "name": "ENGDE",
+      "color": 3160714,
+      "hoist": true,
+      "position": 39,
+      "permissions": "0"
+    },
+    {
+      "id": "884208720932917288",
+      "name": "IBC",
+      "color": 2192715,
+      "hoist": false,
+      "position": 203,
+      "permissions": "0"
+    },
+    {
+      "id": "575693629260169237",
+      "name": "3ibc1",
+      "color": 16749600,
+      "hoist": true,
+      "position": 105,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "501331449887195147",
+      "name": "Délégué 1ère",
+      "color": 9873919,
+      "hoist": true,
+      "position": 217,
+      "permissions": "4332052033"
+    },
+    {
+      "id": "577961906489262083",
+      "name": "3src1",
+      "color": 16749600,
+      "hoist": true,
+      "position": 111,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "1213894754904051792",
+      "name": "I_TOULON",
+      "color": 6684551,
+      "hoist": true,
+      "position": 44,
+      "permissions": "0"
+    },
+    {
+      "id": "1213895118902272061",
+      "name": "I_LILLE",
+      "color": 6684551,
+      "hoist": true,
+      "position": 49,
+      "permissions": "0"
+    },
+    {
+      "id": "821863878408667237",
+      "name": "4src2",
+      "color": 15158332,
+      "hoist": true,
+      "position": 149,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "912639464113860608",
+      "name": "BDE GES",
+      "color": 7746,
+      "hoist": true,
+      "position": 216,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "577961523876724746",
+      "name": "3iabd1",
+      "color": 16749600,
+      "hoist": true,
+      "position": 107,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "976979706337443902",
+      "name": "BSc_SRC",
+      "color": 16749600,
+      "hoist": true,
+      "position": 119,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "884204250828251176",
+      "name": "MOC",
+      "color": 2192715,
+      "hoist": false,
+      "position": 204,
+      "permissions": "0"
+    },
+    {
+      "id": "1038493548468785303",
+      "name": "Développez.com News",
+      "color": 3447003,
+      "hoist": false,
+      "position": 8,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "900854978598543441",
+      "name": "Communication",
+      "color": 1764607,
+      "hoist": false,
+      "position": 229,
+      "permissions": "0"
+    },
+    {
+      "id": "1213895997361496145",
+      "name": "III_TOULOUSE",
+      "color": 16749600,
+      "hoist": true,
+      "position": 84,
+      "permissions": "0"
+    },
+    {
+      "id": "577961606768623616",
+      "name": "3iw1",
+      "color": 16749600,
+      "hoist": true,
+      "position": 100,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "891673605505679451",
+      "name": "Bureau BDE",
+      "color": 7746,
+      "hoist": true,
+      "position": 215,
+      "permissions": "556235480640"
+    },
+    {
+      "id": "824575529058304030",
+      "name": "5si3",
+      "color": 11342935,
+      "hoist": true,
+      "position": 190,
+      "permissions": "4332052032"
+    },
+    {
+      "id": "623513165199573002",
+      "name": "4al1",
+      "color": 15158332,
+      "hoist": true,
+      "position": 142,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "943629229738840074",
+      "name": "4src1Janvier",
+      "color": 15158332,
+      "hoist": true,
+      "position": 150,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "831852126816698418",
+      "name": "DevOps",
+      "color": 7782131,
+      "hoist": false,
+      "position": 19,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "1153010227264893041",
+      "name": "3si4",
+      "color": 16749600,
+      "hoist": true,
+      "position": 113,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "895625517175304192",
+      "name": "Assembleur",
+      "color": 2309529,
+      "hoist": false,
+      "position": 31,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "1131720841298718770",
+      "name": "Attaché de promotion",
+      "color": 15030043,
+      "hoist": true,
+      "position": 223,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "1015785877517127740",
+      "name": "Alumni",
+      "color": 2192715,
+      "hoist": true,
+      "position": 208,
+      "permissions": "4294967296"
+    },
+    {
+      "id": "1213899397306519592",
+      "name": "V_TOULOUSE",
+      "color": 11342935,
+      "hoist": true,
+      "position": 157,
+      "permissions": "0"
+    },
+    {
+      "id": "943627129692753980",
+      "name": "1i1Janvier",
+      "color": 6684551,
+      "hoist": true,
+      "position": 61,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "1213895529918890035",
+      "name": "I_BORDEAUX",
+      "color": 6684551,
+      "hoist": true,
+      "position": 51,
+      "permissions": "0"
+    },
+    {
+      "id": "976976699226984609",
+      "name": "BSc_AL",
+      "color": 16749600,
+      "hoist": true,
+      "position": 118,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "1213899372610457691",
+      "name": "IV_RENNES",
+      "color": 15158332,
+      "hoist": true,
+      "position": 123,
+      "permissions": "0"
+    },
+    {
+      "id": "1028941473548341298",
+      "name": "3mcsi2",
+      "color": 16749600,
+      "hoist": true,
+      "position": 94,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "577944761164628028",
+      "name": "2a2",
+      "color": 15844367,
+      "hoist": true,
+      "position": 78,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "577961712666279956",
+      "name": "3jv1",
+      "color": 16749600,
+      "hoist": true,
+      "position": 96,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "763387457176600597",
+      "name": "Python",
+      "color": 16239677,
+      "hoist": false,
+      "position": 24,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "623513175110844419",
+      "name": "4iw2",
+      "color": 15158332,
+      "hoist": true,
+      "position": 138,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "1213899390608089199",
+      "name": "IV_TOULOUSE",
+      "color": 15158332,
+      "hoist": true,
+      "position": 121,
+      "permissions": "0"
+    },
+    {
+      "id": "824591895552065596",
+      "name": "BDE_News",
+      "color": 3447003,
+      "hoist": false,
+      "position": 6,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "976115502332141569",
+      "name": "Responsable Communication",
+      "color": 10373666,
+      "hoist": true,
+      "position": 225,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "753956945810948136",
+      "name": "3al2",
+      "color": 16749600,
+      "hoist": true,
+      "position": 102,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "904736288102567966",
+      "name": "II",
+      "color": 16773712,
+      "hoist": false,
+      "position": 83,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "1217518069484879918",
+      "name": "Twitch Alerts",
+      "color": 0,
+      "hoist": false,
+      "position": 209,
+      "permissions": "216064"
+    },
+    {
+      "id": "895967856708173835",
+      "name": "ICAN",
+      "color": 918829,
+      "hoist": true,
+      "position": 41,
+      "permissions": "0"
+    },
+    {
+      "id": "774352448260669441",
+      "name": "Server Booster",
+      "color": 16023551,
+      "hoist": false,
+      "position": 11,
+      "permissions": "6442450944"
+    },
+    {
+      "id": "763387458087551046",
+      "name": "Ruby",
+      "color": 11146241,
+      "hoist": false,
+      "position": 23,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "891691422732910683",
+      "name": "5src1Janvier",
+      "color": 11342935,
+      "hoist": true,
+      "position": 183,
+      "permissions": "691526819392"
+    },
+    {
+      "id": "772511032383373332",
+      "name": "5al2",
+      "color": 11342935,
+      "hoist": true,
+      "position": 177,
+      "permissions": "4332052032"
+    },
+    {
+      "id": "1213899443800375317",
+      "name": "V_TOULON",
+      "color": 11342935,
+      "hoist": true,
+      "position": 158,
+      "permissions": "0"
+    },
+    {
+      "id": "1213895988054462474",
+      "name": "II_TOULOUSE",
+      "color": 16773712,
+      "hoist": true,
+      "position": 64,
+      "permissions": "0"
+    },
+    {
+      "id": "753955129878904913",
+      "name": "3iabd2",
+      "color": 16749600,
+      "hoist": true,
+      "position": 106,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "896152339080155156",
+      "name": "BlockChain",
+      "color": 503013,
+      "hoist": false,
+      "position": 17,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "623513197399506945",
+      "name": "5iabd1",
+      "color": 11342935,
+      "hoist": true,
+      "position": 182,
+      "permissions": "4332052032"
+    },
+    {
+      "id": "772508623976661032",
+      "name": "4si3",
+      "color": 15158332,
+      "hoist": true,
+      "position": 153,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "1213895982195019837",
+      "name": "II_LYON",
+      "color": 16773712,
+      "hoist": true,
+      "position": 69,
+      "permissions": "0"
+    },
+    {
+      "id": "753957413438226432",
+      "name": "3src3",
+      "color": 16749600,
+      "hoist": true,
+      "position": 108,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "750341080595300453",
+      "name": "Associations",
+      "color": 6323595,
+      "hoist": false,
+      "position": 211,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "754451945074327553",
+      "name": "3si2",
+      "color": 16749600,
+      "hoist": true,
+      "position": 115,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "494073189404508160",
+      "name": "@everyone",
+      "color": 0,
+      "hoist": false,
+      "position": 0,
+      "permissions": "2221707162410560"
+    },
+    {
+      "id": "623513206958325776",
+      "name": "5si1",
+      "color": 11342935,
+      "hoist": true,
+      "position": 192,
+      "permissions": "4332052032"
+    },
+    {
+      "id": "577961975494213632",
+      "name": "3si1",
+      "color": 16749600,
+      "hoist": true,
+      "position": 116,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "1078368340155830402",
+      "name": "Esupcom",
+      "color": 2718595,
+      "hoist": true,
+      "position": 37,
+      "permissions": "0"
+    },
+    {
+      "id": "904737129496727572",
+      "name": "III_LILLE",
+      "color": 16749600,
+      "hoist": true,
+      "position": 90,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "618759475242729502",
+      "name": "2i3",
+      "color": 16773712,
+      "hoist": true,
+      "position": 80,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "902490336759263282",
+      "name": "Directeur Pédagogique",
+      "color": 12667157,
+      "hoist": true,
+      "position": 226,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "884208901287977010",
+      "name": "JV",
+      "color": 2192715,
+      "hoist": false,
+      "position": 200,
+      "permissions": "0"
+    },
+    {
+      "id": "974353466484994058",
+      "name": "I_LYON",
+      "color": 6684551,
+      "hoist": true,
+      "position": 48,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "1147867949533773845",
+      "name": "1a5",
+      "color": 32278,
+      "hoist": true,
+      "position": 53,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "1028941802587299861",
+      "name": "2a5",
+      "color": 15844367,
+      "hoist": true,
+      "position": 75,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "494098650239336448",
+      "name": "Admin",
+      "color": 16711680,
+      "hoist": true,
+      "position": 233,
+      "permissions": "8804682432223"
+    },
+    {
+      "id": "753955869070458921",
+      "name": "3iw2",
+      "color": 16749600,
+      "hoist": true,
+      "position": 98,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "976503661960237066",
+      "name": "ISFJ",
+      "color": 1713218,
+      "hoist": true,
+      "position": 40,
+      "permissions": "0"
+    },
+    {
+      "id": "623513183185010698",
+      "name": "4mcsi1",
+      "color": 15158332,
+      "hoist": true,
+      "position": 133,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "890659646048698368",
+      "name": "4src4",
+      "color": 15158332,
+      "hoist": true,
+      "position": 147,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "904737137436528651",
+      "name": "IV",
+      "color": 15158332,
+      "hoist": false,
+      "position": 156,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "763387456103645224",
+      "name": "PHP",
+      "color": 7567277,
+      "hoist": false,
+      "position": 25,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "884373261171982346",
+      "name": "4iabd3",
+      "color": 15158332,
+      "hoist": true,
+      "position": 144,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "1213895971281440868",
+      "name": "II_BORDEAUX",
+      "color": 16773712,
+      "hoist": true,
+      "position": 72,
+      "permissions": "0"
+    },
+    {
+      "id": "763387448553373757",
+      "name": "C",
+      "color": 3754411,
+      "hoist": false,
+      "position": 32,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "577962331489697824",
+      "name": "2a1",
+      "color": 15844367,
+      "hoist": true,
+      "position": 79,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "773669104816095272",
+      "name": "4iabd2",
+      "color": 15158332,
+      "hoist": true,
+      "position": 145,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "623513173135458312",
+      "name": "4ibc1",
+      "color": 15158332,
+      "hoist": true,
+      "position": 143,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "498500698271645709",
+      "name": "3al1",
+      "color": 16749600,
+      "hoist": true,
+      "position": 104,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "1213899439517995028",
+      "name": "V_LILLE",
+      "color": 11342935,
+      "hoist": true,
+      "position": 163,
+      "permissions": "0"
+    },
+    {
+      "id": "494097812636827668",
+      "name": "1i1",
+      "color": 6684551,
+      "hoist": true,
+      "position": 62,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "770375195977318412",
+      "name": "Délégué 4ème",
+      "color": 2313215,
+      "hoist": true,
+      "position": 220,
+      "permissions": "4332052032"
+    },
+    {
+      "id": "976951237620695091",
+      "name": "Executive Master",
+      "color": 11342935,
+      "hoist": false,
+      "position": 198,
+      "permissions": "691526819392"
+    },
+    {
+      "id": "904736295677464666",
+      "name": "II_AIX",
+      "color": 16773712,
+      "hoist": true,
+      "position": 73,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "770627317613592596",
+      "name": "Co-Fondateur",
+      "color": 15844367,
+      "hoist": false,
+      "position": 230,
+      "permissions": "0"
+    },
+    {
+      "id": "770565681992564737",
+      "name": "5src3",
+      "color": 11342935,
+      "hoist": true,
+      "position": 185,
+      "permissions": "4332052032"
+    },
+    {
+      "id": "1213899427392004097",
+      "name": "V_GRENOBLE",
+      "color": 11342935,
+      "hoist": true,
+      "position": 164,
+      "permissions": "0"
+    },
+    {
+      "id": "577963258472824832",
+      "name": "2i2",
+      "color": 16773712,
+      "hoist": true,
+      "position": 81,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "1213899401102368859",
+      "name": "IV_GRENOBLE",
+      "color": 15158332,
+      "hoist": true,
+      "position": 128,
+      "permissions": "0"
+    },
+    {
+      "id": "987005681859166209",
+      "name": "⸺⸺ EXTRA RIGHTS ⸺⸺",
+      "color": 2698031,
+      "hoist": false,
+      "position": 4,
+      "permissions": "0"
+    },
+    {
+      "id": "1213899407271919626",
+      "name": "IV_LILLE",
+      "color": 15158332,
+      "hoist": true,
+      "position": 127,
+      "permissions": "0"
+    },
+    {
+      "id": "1213896007767556106",
+      "name": "II_NANTES",
+      "color": 16773712,
+      "hoist": true,
+      "position": 68,
+      "permissions": "0"
+    },
+    {
+      "id": "904736301117489193",
+      "name": "I_AIX",
+      "color": 6684551,
+      "hoist": true,
+      "position": 52,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "1213899423617388564",
+      "name": "V_RENNES",
+      "color": 11342935,
+      "hoist": true,
+      "position": 159,
+      "permissions": "0"
+    },
+    {
+      "id": "904735114557280286",
+      "name": "I",
+      "color": 6684551,
+      "hoist": false,
+      "position": 63,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "1213895113114128426",
+      "name": "I_GRENOBLE",
+      "color": 6684551,
+      "hoist": true,
+      "position": 50,
+      "permissions": "0"
+    },
+    {
+      "id": "1213899417002844281",
+      "name": "IV_TOULON",
+      "color": 15158332,
+      "hoist": true,
+      "position": 122,
+      "permissions": "0"
+    },
+    {
+      "id": "773225194969104384",
+      "name": "Responsable administratif Discord",
+      "color": 0,
+      "hoist": true,
+      "position": 235,
+      "permissions": "6442450944"
+    },
+    {
+      "id": "1213894440712667246",
+      "name": "I_TOULOUSE",
+      "color": 6684551,
+      "hoist": true,
+      "position": 43,
+      "permissions": "0"
+    },
+    {
+      "id": "1213899382605226014",
+      "name": "IV_AIX",
+      "color": 15158332,
+      "hoist": true,
+      "position": 130,
+      "permissions": "0"
+    },
+    {
+      "id": "753898781250158622",
+      "name": "Délégué 3ème",
+      "color": 4154111,
+      "hoist": true,
+      "position": 219,
+      "permissions": "4332052032"
+    },
+    {
+      "id": "763387454912331816",
+      "name": "JS",
+      "color": 15049256,
+      "hoist": false,
+      "position": 26,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "770565685850931210",
+      "name": "5src4",
+      "color": 11342935,
+      "hoist": true,
+      "position": 184,
+      "permissions": "4332052032"
+    },
+    {
+      "id": "1212023142306938891",
+      "name": ".",
+      "color": 0,
+      "hoist": false,
+      "position": 213,
+      "permissions": "1024"
+    },
+    {
+      "id": "1054460871193133077",
+      "name": "Twitch News",
+      "color": 3447003,
+      "hoist": false,
+      "position": 5,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "623513195604082746",
+      "name": "5moc1",
+      "color": 11342935,
+      "hoist": true,
+      "position": 176,
+      "permissions": "4332052032"
+    },
+    {
+      "id": "890659660904927242",
+      "name": "5iw3",
+      "color": 11342935,
+      "hoist": true,
+      "position": 172,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "1028941713198301184",
+      "name": "2a4",
+      "color": 15844367,
+      "hoist": true,
+      "position": 76,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "943629343375122523",
+      "name": "5iw1Janvier",
+      "color": 11342935,
+      "hoist": true,
+      "position": 174,
+      "permissions": "4332052032"
+    },
+    {
+      "id": "1213897324800114758",
+      "name": "III_NANTES",
+      "color": 16749600,
+      "hoist": true,
+      "position": 88,
+      "permissions": "0"
+    },
+    {
+      "id": "976950084170309693",
+      "name": "Executive Bachelors",
+      "color": 16749600,
+      "hoist": false,
+      "position": 120,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "890659657339785216",
+      "name": "5iabd2",
+      "color": 11342935,
+      "hoist": true,
+      "position": 181,
+      "permissions": "691526819392"
+    },
+    {
+      "id": "623513204966031391",
+      "name": "5src1",
+      "color": 11342935,
+      "hoist": true,
+      "position": 187,
+      "permissions": "4332052032"
+    },
+    {
+      "id": "890659643058176010",
+      "name": "4src3",
+      "color": 15158332,
+      "hoist": true,
+      "position": 148,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "1028942585487704135",
+      "name": "5iabd3",
+      "color": 11342935,
+      "hoist": true,
+      "position": 180,
+      "permissions": "691526819392"
+    },
+    {
+      "id": "1213895993838403654",
+      "name": "III_AIX",
+      "color": 16749600,
+      "hoist": true,
+      "position": 93,
+      "permissions": "0"
+    },
+    {
+      "id": "1156994841880830054",
+      "name": "Responsable OPEN",
+      "color": 13519121,
+      "hoist": true,
+      "position": 224,
+      "permissions": "6479533632"
+    },
+    {
+      "id": "904737135188385812",
+      "name": "III_GRENOBLE",
+      "color": 16749600,
+      "hoist": true,
+      "position": 91,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "1213899430902767687",
+      "name": "V_LYON",
+      "color": 11342935,
+      "hoist": true,
+      "position": 162,
+      "permissions": "0"
+    },
+    {
+      "id": "822887187002818593",
+      "name": "5si1Janvier",
+      "color": 11342935,
+      "hoist": true,
+      "position": 188,
+      "permissions": "4332052032"
+    },
+    {
+      "id": "1017442812507205743",
+      "name": "Accès réunion",
+      "color": 3342336,
+      "hoist": false,
+      "position": 2,
+      "permissions": "0"
+    },
+    {
+      "id": "943627668967010315",
+      "name": "3iw1Janvier",
+      "color": 16749600,
+      "hoist": true,
+      "position": 99,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "766304217841270834",
+      "name": "Voyageur",
+      "color": 6612009,
+      "hoist": true,
+      "position": 36,
+      "permissions": "315717180992"
+    },
+    {
+      "id": "618763428894343168",
+      "name": "1i4",
+      "color": 6684551,
+      "hoist": true,
+      "position": 58,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "1213895984975974420",
+      "name": "II_TOULON",
+      "color": 16773712,
+      "hoist": true,
+      "position": 65,
+      "permissions": "0"
+    },
+    {
+      "id": "895607552207912971",
+      "name": "Rust",
+      "color": 11885104,
+      "hoist": false,
+      "position": 16,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "774034123190829086",
+      "name": "Prof",
+      "color": 14641720,
+      "hoist": true,
+      "position": 222,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "623513201455136768",
+      "name": "5iw1",
+      "color": 11342935,
+      "hoist": true,
+      "position": 175,
+      "permissions": "4332052032"
+    },
+    {
+      "id": "844313749682126889",
+      "name": "Réseau",
+      "color": 899053,
+      "hoist": false,
+      "position": 15,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "824575520866959370",
+      "name": "5si2",
+      "color": 11342935,
+      "hoist": true,
+      "position": 191,
+      "permissions": "4332052032"
+    },
+    {
+      "id": "884208941343571988",
+      "name": "MCSI",
+      "color": 2192715,
+      "hoist": false,
+      "position": 199,
+      "permissions": "0"
+    },
+    {
+      "id": "884208200340099123",
+      "name": "IABD",
+      "color": 2192715,
+      "hoist": false,
+      "position": 205,
+      "permissions": "0"
+    },
+    {
+      "id": "893800485180559370",
+      "name": "Database",
+      "color": 618574,
+      "hoist": false,
+      "position": 22,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "753958122300899399",
+      "name": "3si3",
+      "color": 16749600,
+      "hoist": true,
+      "position": 114,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "988831120382640130",
+      "name": "BotGI V2",
+      "color": 1764607,
+      "hoist": false,
+      "position": 232,
+      "permissions": "8"
+    },
+    {
+      "id": "943627655272616016",
+      "name": "3al1Janvier",
+      "color": 16749600,
+      "hoist": true,
+      "position": 103,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "1021073007877304473",
+      "name": "MOD'ART",
+      "color": 14893331,
+      "hoist": true,
+      "position": 38,
+      "permissions": "0"
+    },
+    {
+      "id": "623513199408578571",
+      "name": "5ibc1",
+      "color": 11342935,
+      "hoist": true,
+      "position": 178,
+      "permissions": "4332052032"
+    },
+    {
+      "id": "890659627765735424",
+      "name": "2mcsi6",
+      "color": 15844367,
+      "hoist": true,
+      "position": 74,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "770375191800053770",
+      "name": "Délégué 5ème",
+      "color": 1326334,
+      "hoist": true,
+      "position": 221,
+      "permissions": "4332052032"
+    },
+    {
+      "id": "1213894972244234250",
+      "name": "I_NANTES",
+      "color": 6684551,
+      "hoist": true,
+      "position": 47,
+      "permissions": "0"
+    },
+    {
+      "id": "893800011656228864",
+      "name": "Dev Mobile",
+      "color": 600142,
+      "hoist": false,
+      "position": 14,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "1044342407174561942",
+      "name": "Accès bot",
+      "color": 1764607,
+      "hoist": false,
+      "position": 1,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "773226460978479105",
+      "name": "Responsable Discord",
+      "color": 0,
+      "hoist": true,
+      "position": 236,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "755056412681437286",
+      "name": "2a3",
+      "color": 15844367,
+      "hoist": true,
+      "position": 77,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "890659664642064424",
+      "name": "5mcsi3",
+      "color": 11342935,
+      "hoist": true,
+      "position": 167,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "773669108277444609",
+      "name": "4al2",
+      "color": 15158332,
+      "hoist": true,
+      "position": 141,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "623513194387734549",
+      "name": "5al1",
+      "color": 11342935,
+      "hoist": true,
+      "position": 179,
+      "permissions": "4332052032"
+    },
+    {
+      "id": "770650857964175371",
+      "name": "4iw3",
+      "color": 15158332,
+      "hoist": true,
+      "position": 137,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "770565677743865866",
+      "name": "5src2",
+      "color": 11342935,
+      "hoist": true,
+      "position": 186,
+      "permissions": "4332052032"
+    },
+    {
+      "id": "1213897327383805982",
+      "name": "III_BORDEAUX",
+      "color": 16749600,
+      "hoist": true,
+      "position": 92,
+      "permissions": "0"
+    },
+    {
+      "id": "1028942320529317949",
+      "name": "1a4",
+      "color": 32278,
+      "hoist": true,
+      "position": 54,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "772508617818767361",
+      "name": "4si1",
+      "color": 15158332,
+      "hoist": true,
+      "position": 155,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "1038492773852139550",
+      "name": "Security News",
+      "color": 3447003,
+      "hoist": false,
+      "position": 9,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "1019956503081386114",
+      "name": "DevSecOps",
+      "color": 5353201,
+      "hoist": false,
+      "position": 18,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "1213899410317250560",
+      "name": "IV_BORDEAUX",
+      "color": 15158332,
+      "hoist": true,
+      "position": 129,
+      "permissions": "0"
+    },
+    {
+      "id": "890659639845322783",
+      "name": "4si4",
+      "color": 15158332,
+      "hoist": true,
+      "position": 152,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "772747152836657174",
+      "name": "4mcsi2",
+      "color": 15158332,
+      "hoist": true,
+      "position": 132,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "793787248658743307",
+      "name": "Linux",
+      "color": 15832064,
+      "hoist": false,
+      "position": 21,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "884208767108005928",
+      "name": "AL",
+      "color": 2192715,
+      "hoist": false,
+      "position": 202,
+      "permissions": "0"
+    },
+    {
+      "id": "577962078023712791",
+      "name": "3mcsi1",
+      "color": 16749600,
+      "hoist": true,
+      "position": 95,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "498837087701827584",
+      "name": "Bots",
+      "color": 0,
+      "hoist": true,
+      "position": 210,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "890659633432252447",
+      "name": "4iw4",
+      "color": 15158332,
+      "hoist": true,
+      "position": 135,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "623513167624142849",
+      "name": "4moc1",
+      "color": 15158332,
+      "hoist": true,
+      "position": 140,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "1028942802186424320",
+      "name": "5iw4",
+      "color": 11342935,
+      "hoist": true,
+      "position": 171,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "763387452207267890",
+      "name": "HTML",
+      "color": 12790532,
+      "hoist": false,
+      "position": 28,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "904738055934591006",
+      "name": "V",
+      "color": 11342935,
+      "hoist": false,
+      "position": 193,
+      "permissions": "691526819392"
+    },
+    {
+      "id": "577962582657204224",
+      "name": "2i1",
+      "color": 16773712,
+      "hoist": true,
+      "position": 82,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "987005211056959488",
+      "name": "Event Management Right",
+      "color": 1734969,
+      "hoist": false,
+      "position": 3,
+      "permissions": "18150531792896"
+    },
+    {
+      "id": "763387447249207357",
+      "name": "C++",
+      "color": 22941,
+      "hoist": false,
+      "position": 33,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "976984395305074760",
+      "name": "MSc_AL",
+      "color": 11342935,
+      "hoist": true,
+      "position": 195,
+      "permissions": "691526819392"
+    },
+    {
+      "id": "884208048321740860",
+      "name": "SRC",
+      "color": 2192715,
+      "hoist": false,
+      "position": 206,
+      "permissions": "0"
+    },
+    {
+      "id": "623513208925454366",
+      "name": "5mcsi2",
+      "color": 11342935,
+      "hoist": true,
+      "position": 168,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "904737142868181082",
+      "name": "IV_LYON",
+      "color": 15158332,
+      "hoist": false,
+      "position": 126,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "888034372115136532",
+      "name": "Gérant association",
+      "color": 6323595,
+      "hoist": false,
+      "position": 35,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "494096703092162560",
+      "name": "1i3",
+      "color": 6684551,
+      "hoist": true,
+      "position": 59,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "1213899362091012106",
+      "name": "III_RENNES",
+      "color": 16749600,
+      "hoist": true,
+      "position": 86,
+      "permissions": "0"
+    },
+    {
+      "id": "1213896006559600651",
+      "name": "II_RENNES",
+      "color": 16773712,
+      "hoist": true,
+      "position": 66,
+      "permissions": "0"
+    },
+    {
+      "id": "884208857147133992",
+      "name": "IW",
+      "color": 2192715,
+      "hoist": false,
+      "position": 201,
+      "permissions": "0"
+    },
+    {
+      "id": "904737132407566396",
+      "name": "III_REIMS",
+      "color": 16749600,
+      "hoist": true,
+      "position": 87,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "773225745296261151",
+      "name": "Modérateur",
+      "color": 0,
+      "hoist": true,
+      "position": 234,
+      "permissions": "2147483648"
+    },
+    {
+      "id": "1213894727448141834",
+      "name": "I_REIMS",
+      "color": 6684551,
+      "hoist": true,
+      "position": 46,
+      "permissions": "0"
+    },
+    {
+      "id": "577961364904083457",
+      "name": "3moc1",
+      "color": 16749600,
+      "hoist": true,
+      "position": 101,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "1043512179766341642",
+      "name": "Technological Watch",
+      "color": 3447003,
+      "hoist": false,
+      "position": 10,
+      "permissions": "693674303040"
+    },
+    {
+      "id": "763387450969161758",
+      "name": "Go",
+      "color": 7002085,
+      "hoist": false,
+      "position": 29,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "1213899413416837152",
+      "name": "IV_NANTES",
+      "color": 15158332,
+      "hoist": true,
+      "position": 125,
+      "permissions": "0"
+    },
+    {
+      "id": "1213899378297675797",
+      "name": "III_TOULON",
+      "color": 16749600,
+      "hoist": true,
+      "position": 85,
+      "permissions": "0"
+    },
+    {
+      "id": "763387445839527966",
+      "name": "C#",
+      "color": 8466564,
+      "hoist": false,
+      "position": 34,
+      "permissions": "6479535680"
+    },
+    {
+      "id": "623513181121150977",
+      "name": "4si2",
+      "color": 15158332,
+      "hoist": true,
+      "position": 154,
+      "permissions": "6479535680"
+    }
+  ],
+  "members": [
+    {
+      "id": "655023105923874842",
+      "username": "naywvi",
+      "discriminator": "0",
+      "roles": [
+        "904737145321824346",
+        "504670191242969163",
+        "754451945074327553",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "760557675007443055",
+      "username": "makadjileboss",
+      "discriminator": "0",
+      "roles": [
+        "904737145321824346",
+        "504670191242969163",
+        "754451945074327553",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "270587410843172864",
+      "username": "rosky77",
+      "discriminator": "0",
+      "roles": [
+        "904737145321824346",
+        "504670191242969163",
+        "824591895552065596",
+        "754451945074327553",
+        "1054460871193133077",
+        "888034372115136532",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "779019442579308574",
+      "username": "laiteau_",
+      "discriminator": "0",
+      "roles": [
+        "904737145321824346",
+        "504670191242969163",
+        "754451945074327553",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "972257979690778624",
+      "username": "cholulaaa",
+      "discriminator": "0",
+      "roles": [
+        "793787257210404864",
+        "904737145321824346",
+        "504670191242969163",
+        "754451945074327553",
+        "753898781250158622",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "358997015331602432",
+      "username": "voltanvi",
+      "discriminator": "0",
+      "roles": [
+        "577961906489262083",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "667420082938445846",
+      "username": "hugaxx",
+      "discriminator": "0",
+      "roles": [
+        "904737145321824346",
+        "504670191242969163",
+        "922867545160183838",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "344103991153524739",
+      "username": "ruubbennn",
+      "discriminator": "0",
+      "roles": [
+        "904737145321824346",
+        "504670191242969163",
+        "754451945074327553",
+        "753898781250158622",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "312279799856889868",
+      "username": "soso932",
+      "discriminator": "0",
+      "roles": [
+        "904737145321824346",
+        "504670191242969163",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "1126143229193113631",
+      "username": "emmyesgi",
+      "discriminator": "0",
+      "roles": [
+        "793787257210404864",
+        "504670191242969163",
+        "1131720841298718770",
+        "824591895552065596",
+        "1054460871193133077",
+        "1038492773852139550",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "691750381268500510",
+      "username": "deathxgun99",
+      "discriminator": "0",
+      "roles": [
+        "504670191242969163",
+        "824591895552065596",
+        "904737137436528651",
+        "1054460871193133077",
+        "772508617818767361",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "810998027057627156",
+      "username": "lauren17100",
+      "discriminator": "0",
+      "roles": [
+        "904737145321824346",
+        "504670191242969163",
+        "754451945074327553",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "687960665528467488",
+      "username": "imrda.188",
+      "discriminator": "0",
+      "roles": [
+        "904737145321824346",
+        "504670191242969163",
+        "754451945074327553",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "1082606243643920475",
+      "username": "doriann123",
+      "discriminator": "0",
+      "roles": [
+        "904737145321824346",
+        "504670191242969163",
+        "754451945074327553",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "538745072041328640",
+      "username": "batsam18",
+      "discriminator": "0",
+      "roles": [
+        "904737145321824346",
+        "504670191242969163",
+        "754451945074327553",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "933471866864169042",
+      "username": "odg_josue",
+      "discriminator": "0",
+      "roles": [
+        "904737145321824346",
+        "504670191242969163",
+        "754451945074327553",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "532305910010347522",
+      "username": "fr.oze_",
+      "discriminator": "0",
+      "roles": [
+        "766304217841270834",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "411570861812744193",
+      "username": "lyndabnrr",
+      "discriminator": "0",
+      "roles": [
+        "904737145321824346",
+        "504670191242969163",
+        "754451945074327553",
+        "763387448553373757",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "194157962498015232",
+      "username": "vagahbond",
+      "discriminator": "0",
+      "roles": [
+        "504670191242969163",
+        "1015785877517127740",
+        "763387457176600597",
+        "763387458087551046",
+        "763387448553373757",
+        "763387454912331816",
+        "1054460871193133077",
+        "774034123190829086",
+        "884208767108005928",
+        "763387447249207357",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "317673307350761482",
+      "username": "20centsfr",
+      "discriminator": "0",
+      "roles": [
+        "904737145321824346",
+        "504670191242969163",
+        "754451945074327553",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "1154424784877277284",
+      "username": "arthuro2020_58508",
+      "discriminator": "0",
+      "roles": [
+        "904737145321824346",
+        "504670191242969163",
+        "754451945074327553",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "1005217761217216513",
+      "username": "ninja079178",
+      "discriminator": "0",
+      "roles": [
+        "904737145321824346",
+        "504670191242969163",
+        "754451945074327553",
+        "494073189404508160"
+      ]
+    },
+    {
+      "id": "249605055152390144",
+      "username": "momoxs",
+      "discriminator": "0",
+      "roles": [
+        "904737145321824346",
+        "504670191242969163",
+        "753958122300899399",
+        "494073189404508160"
+      ]
+    }
+  ]
+}
